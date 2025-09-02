@@ -1,6 +1,5 @@
 ## Ola !! Eu sou o Lucas Bueno👋
 
-- 🔭 Atualmente desenvolvendo o front-end de uma aplicação de avaliação de livros literários. 
 - 🎓 Cursando Técnico em Informática para Internet no CEFET-MG.
 <div style="display: inline_block"><br>
   <img align="center" alt="Bueno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +9,8 @@
   <img align="center" alt="Bueno-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Bueno-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="Bueno-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-
+  <img align="center" alt="Bueno-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 </div><br>
 <div> 
   <a href="https://www.instagram.com/lhbuenolucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
